@@ -7,3 +7,12 @@
 .img-brightness {
     filter: brightness(50%);
 }
+
+@media (max-width: 768px) {
+
+    .course-img {
+        width: 100%;
+        height: 200px;
+
+    }
+}
