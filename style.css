@@ -1,0 +1,9 @@
+.caption-center {
+    transform: translateY(-50%);
+    bottom: initial;
+    top: 50%;
+}
+
+.img-brightness {
+    filter: brightness(50%);
+}
